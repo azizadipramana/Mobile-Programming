@@ -150,4 +150,4 @@ Column(
 
 Ini adalah **menu ketiga** dengan icon orang dan teks "People".
 
-Secara keseluruhan, program ini membuat **aplikasi Flutter sederhana** yang memiliki AppBar di atas, gambar di tengah, sebuah teks pertanyaan, dan tiga menu icon di bagian bawah. Layout disusun menggunakan `Column` untuk susunan vertikal dan `Row` untuk susunan horizontal.
+

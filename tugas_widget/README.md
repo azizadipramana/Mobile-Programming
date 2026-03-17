@@ -71,7 +71,7 @@ Container(
   padding: EdgeInsets.all(20),
   color: Colors.cyan[200],
   child: Image(
-    image: AssetImage("image/anime3.jpg"),
+    image: AssetImage("images/anime3.jpg"),
     height: 200,
   ),
 ),

@@ -84,6 +84,14 @@ class FirstApp extends StatelessWidget {
                     ],
                   ),
 
+                  Column(
+                    children: [
+                      Icon(Icons.add),
+                      SizedBox(height: 5),
+                      Text("Add")
+                    ],
+                  ),
+
                 ],
               ),
             )
